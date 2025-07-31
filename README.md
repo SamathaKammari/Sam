@@ -1,5 +1,5 @@
 In this project I am done with the basic code for machinelearning algorithms like 
-for import data we use libraries like pandas,numpy for numerical actions,to train the model use scikit learn library. 
+for import data we use libraries like pandas,numpy for numerical actions, Matplotlib.pyplot, seaborn  models are  use for the advance visualization library. 
 To manipulate data we use pandas 
 # df =pd.read_csv(" file name")  : used to upload dataset into the model
 # df.head() : to read top most records of the dataset
